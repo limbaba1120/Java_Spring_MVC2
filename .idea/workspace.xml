@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f174908c-044e-4be7-aa41-180940917795" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2T5LwCls2hLsDkrx7DfFkh1yQAY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/1/OneDrive/건우/스프링공부/스프링_MVC2/mvc2/validation-start/src/main/resources/templates/validation",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "spring.configuration.checksum": "9d784ebce1e1b9bf1a26296359c6245e"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\1\OneDrive\건우\스프링공부\스프링_MVC2\mvc2\validation-start\src\main\resources\templates\validation" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="hello.typeconverter.formatter" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hello.exception.api" />
+      <recent name="hello.itemservice.web.validation.form" />
+      <recent name="hello.itemservice.web.validation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TypeconverterApplication">
+    <configuration name="ConversionServiceTest.conversionService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exception.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.typeconverter.converter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.typeconverter.converter" />
+      <option name="MAIN_CLASS_NAME" value="hello.typeconverter.converter.ConversionServiceTest" />
+      <option name="METHOD_NAME" value="conversionService" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormattingConversionServiceTest.formattingConversionService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exception.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.typeconverter.formatter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.typeconverter.formatter" />
+      <option name="MAIN_CLASS_NAME" value="hello.typeconverter.formatter.FormattingConversionServiceTest" />
+      <option name="METHOD_NAME" value="formattingConversionService" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyNumberFormatterTest.parse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exception.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.typeconverter.formatter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.typeconverter.formatter" />
+      <option name="MAIN_CLASS_NAME" value="hello.typeconverter.formatter.MyNumberFormatterTest" />
+      <option name="METHOD_NAME" value="parse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyNumberFormatterTest.print" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exception.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.typeconverter.formatter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.typeconverter.formatter" />
+      <option name="MAIN_CLASS_NAME" value="hello.typeconverter.formatter.MyNumberFormatterTest" />
+      <option name="METHOD_NAME" value="print" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="exception.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hello.exception.ExceptionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="login.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hello.login.ItemServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="validation.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hello.itemservice.ItemServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypeconverterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="exception.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hello.typeconverter.TypeconverterApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.typeconverter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.TypeconverterApplication" />
+        <item itemvalue="JUnit.FormattingConversionServiceTest.formattingConversionService" />
+        <item itemvalue="JUnit.MyNumberFormatterTest.print" />
+        <item itemvalue="JUnit.MyNumberFormatterTest.parse" />
+        <item itemvalue="JUnit.ConversionServiceTest.conversionService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f174908c-044e-4be7-aa41-180940917795" name="Changes" comment="" />
+      <created>1690328231110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690328231110</updated>
+      <workItem from="1690328232491" duration="4926000" />
+      <workItem from="1690333945700" duration="16206000" />
+      <workItem from="1690417364628" duration="8949000" />
+      <workItem from="1690763892877" duration="12131000" />
+      <workItem from="1690814254604" duration="20000" />
+      <workItem from="1690849413989" duration="17358000" />
+      <workItem from="1690933692272" duration="15570000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
